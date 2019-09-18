@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "ZJ-OA-WU-JY",
+    "children" : [ {
+      "name" : "16100-MainThread",
+      "children" : [ {
+        "name" : "test_case_16",
+        "uid" : "d8bc2c6bbe533051",
+        "parentUid" : "0cc109d6e3d8017dddd8fe9d422435c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1564881732334,
+          "stop" : 1564881741830,
+          "duration" : 9496
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_case_15",
+        "uid" : "6ff3f3713ceab694",
+        "parentUid" : "0cc109d6e3d8017dddd8fe9d422435c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1564881717931,
+          "stop" : 1564881732327,
+          "duration" : 14396
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0cc109d6e3d8017dddd8fe9d422435c5"
+    } ],
+    "uid" : "c189e6de30ddc944bb5bdb3704867534"
+  } ]
+}
